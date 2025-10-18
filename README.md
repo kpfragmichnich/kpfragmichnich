@@ -25,4 +25,4 @@ Check out my repos for code that goes deep.
 
 ---
 
-![kpfragmichnich's GitHub stats]([https://github-readme-stats.vercel.app/api?username=kpfragmichnich&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=kpfragmichnich&show_icons=true&theme=tokyonight))
+![kpfragmichnich's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpfragmichnich&show_icons=true&theme=tokyonight)
