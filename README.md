@@ -1,4 +1,4 @@
-# 👋 Hi, I'm kpfragmichnich!
+# 👋 Hi, I'm kp.sys!
 
 Welcome to my GitHub profile.
 
@@ -25,4 +25,8 @@ Check out my repos for code that goes deep.
 
 ---
 
-![kpfragmichnich's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpfragmichnich&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
