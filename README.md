@@ -28,5 +28,5 @@ Check out my repos for code that goes deep.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kpfragmichnich&show_icons=true&theme=tokyonight" />
 </p>
