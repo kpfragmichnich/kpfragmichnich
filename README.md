@@ -25,6 +25,4 @@ Check out my repos for code that goes deep.
 
 ---
 
-<p align="center">
-  [<img src="https://github-readme-stats.vercel.app/api?username=kpfragmichnich&show_icons=true&theme=tokyonight" />](https://streak-stats.demolab.com/?user=kpfragmichnich&theme=github-dark)
-</p>
+<img src="https://streak-stats.demolab.com?user=DEIN_USERNAME&theme=github-dark" />
