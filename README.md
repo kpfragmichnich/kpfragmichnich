@@ -15,7 +15,6 @@ Welcome to my GitHub profile.
 
 - Low-level systems, kernel stuff, and reverse engineering
 - Building tools, drivers, and cool projects
-- Always learning, always coding
 
 ---
 
