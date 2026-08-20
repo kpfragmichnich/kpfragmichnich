@@ -1,4 +1,4 @@
-# 👋 Hi, I'm kp.sys!
+# 👋 Hi!
 
 Welcome to my GitHub profile.
 
