@@ -13,7 +13,7 @@ Welcome to my GitHub profile.
 
 ## 🚀 About Me
 
-- Low-level systems, kernel stuff, and reverse engineering
+- Low Level systems, kernel stuff, and reverse engineering
 - Building tools, drivers, and cool projects
 
 ---
